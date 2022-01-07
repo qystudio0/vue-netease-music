@@ -56,6 +56,7 @@ https://binaryify.github.io/NeteaseCloudMusicApi
 ```
 npm i
 npm run dev
+npm run build
 ```
 
 ### 友情链接
